@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 5a1422a0df48b2d459b8808b35b4d4b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7924518694224166752
+    second: WireFrame_semfundo_0
+  - first:
+      213: 5552161401372417039
+    second: WireFrame_semfundo_1
+  - first:
+      213: 8522494224895097872
+    second: WireFrame_semfundo_2
+  - first:
+      213: -1931112328955710214
+    second: WireFrame_semfundo_3
+  - first:
+      213: 8213546005425469908
+    second: WireFrame_semfundo_4
+  - first:
+      213: 6056724763059312826
+    second: WireFrame_semfundo_5
+  - first:
+      213: 3123879956281147395
+    second: WireFrame_semfundo_6
+  - first:
+      213: 1540740432735816405
+    second: WireFrame_semfundo_7
+  - first:
+      213: -3971075172816657898
+    second: WireFrame_semfundo_8
+  - first:
+      213: 4176435682642447804
+    second: WireFrame_semfundo_9
+  - first:
+      213: 4940741561526541966
+    second: WireFrame_semfundo_10
+  - first:
+      213: 7066483438302807762
+    second: WireFrame_semfundo_11
+  - first:
+      213: -5993131934049541526
+    second: WireFrame_semfundo_12
+  - first:
+      213: 4080547614321746166
+    second: WireFrame_semfundo_13
+  - first:
+      213: -6694935866260908952
+    second: WireFrame_semfundo_14
+  - first:
+      213: -4794571412502751507
+    second: WireFrame_semfundo_15
+  - first:
+      213: -9164830050634746808
+    second: WireFrame_semfundo_16
+  - first:
+      213: 6572849029083707594
+    second: WireFrame_semfundo_17
+  - first:
+      213: 4136464628836291087
+    second: WireFrame_semfundo_18
+  - first:
+      213: 27906504007335273
+    second: WireFrame_semfundo_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WireFrame_semfundo_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 345
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a083d6cb34760290800000000000000
+      internalID: -7924518694224166752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 185
+        width: 140
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c1070c06d3d0d40800000000000000
+      internalID: 5552161401372417039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 185
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb03be75bf54670800000000000000
+      internalID: 8522494224895097872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 118
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b73b719f4335e0800000000000000
+      internalID: -1931112328955710214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 99
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b6bf13906cf170800000000000000
+      internalID: 8213546005425469908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab85674051fcd0450800000000000000
+      internalID: 6056724763059312826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c91be4404a5b20800000000000000
+      internalID: 3123879956281147395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dacc48a24fc16510800000000000000
+      internalID: 1540740432735816405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e3e38b28e3e8c0800000000000000
+      internalID: -3971075172816657898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4b2b202ea5f930800000000000000
+      internalID: 4176435682642447804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5cc5e54a019440800000000000000
+      internalID: 4940741561526541966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6483f4f31311260800000000000000
+      internalID: 7066483438302807762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626dea424e14dca0800000000000000
+      internalID: -5993131934049541526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f027b08f6401a830800000000000000
+      internalID: 4080547614321746166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 52
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8641f790d4fc613a0800000000000000
+      internalID: -6694935866260908952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 51
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6d78bf3b2467db0800000000000000
+      internalID: -4794571412502751507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 14
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844371550abffc080800000000000000
+      internalID: -9164830050634746808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 19
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83ec41e53773b50800000000000000
+      internalID: 6572849029083707594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 168
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0251cbf9aca76930800000000000000
+      internalID: 4136464628836291087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireFrame_semfundo_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 128
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96db74a41d4236000800000000000000
+      internalID: 27906504007335273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

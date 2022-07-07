@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6583858554497640282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6583858554497640280}
+  - component: {fileID: 6583858554497640281}
+  - component: {fileID: 6583858554497640287}
+  m_Layer: 0
+  m_Name: Controlador
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6583858554497640280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6583858554497640282}
+  m_LocalRotation: {x: 0, y: -0.001570869, z: 0, w: 0.9999988}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0.18, z: 0}
+--- !u!114 &6583858554497640281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6583858554497640282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db629ea15ee5a864798e1f4e0add8a3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imagens:
+  - {fileID: 21300000, guid: dab5310483d0121438c14289bcb66fef, type: 3}
+--- !u!114 &6583858554497640287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6583858554497640282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bffc60c7ede8f54aa313980fa101315, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mapasPai: {fileID: 0}
+  posInicialHorizontal:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  posInicialVertical:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  salas:
+  - {fileID: 5165892972242708362, guid: 5b4e526b9ffa36447b0ec65bec46120c, type: 3}
+  - {fileID: 3217645727317003879, guid: b950726bcecafe54ab035f0bd4ed5543, type: 3}
+  - {fileID: 1895136674562994615, guid: af507c839b3e9024c9fa7ade2c582993, type: 3}
+  - {fileID: 4447850614208047337, guid: 37892e9f2fcaf314a90cb7e4038e62f1, type: 3}
+  moveamount: 10
+  timePorSala: 1
+  startTime: 0.2
+  minX: -20
+  MaxX: 20
+  minY: -40
+  MaxY: 0
+  stopGeneration: 0
+  room:
+    serializedVersion: 2
+    m_Bits: 2097152
+  posicaoSpawnMapa: 0
+  Player: {fileID: 0}
+  FimFase: {fileID: 0}
+  fimspawn: 0

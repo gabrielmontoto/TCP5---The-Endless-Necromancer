@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f0c2fe80845bd744f8661485875cd8e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidbody2d: {instanceID: 0}
+  - SaidaAtaqueDireita: {instanceID: 0}
+  - flecha: {instanceID: 0}
+  - guerreiroAnimacoes: {instanceID: 0}
+  - _paiParticulas: {instanceID: 0}
+  - sangueAtaque: {instanceID: 0}
+  - sangueHabilidade: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  - hitTrail: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 95552d639b4d7fc4eaa648a68ac131ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7102614936140964646
+    second: SpriteAtlas_semFundo_0
+  - first:
+      213: 8317321355961844015
+    second: SpriteAtlas_semFundo_1
+  - first:
+      213: 3666928130138624757
+    second: SpriteAtlas_semFundo_2
+  - first:
+      213: 3277327288151091755
+    second: SpriteAtlas_semFundo_3
+  - first:
+      213: 1567238003531062649
+    second: SpriteAtlas_semFundo_4
+  - first:
+      213: -7177096280515128172
+    second: SpriteAtlas_semFundo_5
+  - first:
+      213: 7887495605998218503
+    second: SpriteAtlas_semFundo_6
+  - first:
+      213: -3395509519637005635
+    second: SpriteAtlas_semFundo_7
+  - first:
+      213: -7774393988122109916
+    second: SpriteAtlas_semFundo_8
+  - first:
+      213: 4621399574014536778
+    second: SpriteAtlas_semFundo_9
+  - first:
+      213: -4253804118937202334
+    second: SpriteAtlas_semFundo_10
+  - first:
+      213: 2985958607822429966
+    second: SpriteAtlas_semFundo_11
+  - first:
+      213: -1434147327472197769
+    second: SpriteAtlas_semFundo_12
+  - first:
+      213: 6153445416793706138
+    second: SpriteAtlas_semFundo_13
+  - first:
+      213: -4991473657850267902
+    second: SpriteAtlas_semFundo_15
+  - first:
+      213: -3660744934465474587
+    second: SpriteAtlas_semFundo_16
+  - first:
+      213: 1178396775403170101
+    second: SpriteAtlas_semFundo_17
+  - first:
+      213: 5805295101072176536
+    second: SpriteAtlas_semFundo_18
+  - first:
+      213: 432368720310372719
+    second: SpriteAtlas_semFundo_19
+  - first:
+      213: 5050388680434217493
+    second: SpriteAtlas_semFundo_20
+  - first:
+      213: -6206629841770179263
+    second: SpriteAtlas_semFundo_22
+  - first:
+      213: 2449082770532230241
+    second: SpriteAtlas_semFundo_24
+  - first:
+      213: 6652455537095490918
+    second: SpriteAtlas_semFundo_25
+  - first:
+      213: 3760987691707324115
+    second: SpriteAtlas_semFundo_26
+  - first:
+      213: -2910759000441176483
+    second: SpriteAtlas_semFundo_27
+  - first:
+      213: -4701858795837818930
+    second: SpriteAtlas_semFundo_29
+  - first:
+      213: -5441825428833868232
+    second: SpriteAtlas_semFundo_30
+  - first:
+      213: 8104797086438072736
+    second: SpriteAtlas_semFundo_31
+  - first:
+      213: 9116396718390106092
+    second: SpriteAtlas_semFundo_32
+  - first:
+      213: 6583666256412419337
+    second: SpriteAtlas_semFundo_33
+  - first:
+      213: -8559690192509464301
+    second: SpriteAtlas_semFundo_34
+  - first:
+      213: 689873880678874364
+    second: SpriteAtlas_semFundo_35
+  - first:
+      213: 2559395244639967289
+    second: SpriteAtlas_semFundo_36
+  - first:
+      213: 7112504500781400153
+    second: SpriteAtlas_semFundo_37
+  - first:
+      213: -5451448549720741984
+    second: SpriteAtlas_semFundo_38
+  - first:
+      213: 5496740318407752942
+    second: SpriteAtlas_semFundo_39
+  - first:
+      213: -7939047660017759609
+    second: SpriteAtlas_semFundo_40
+  - first:
+      213: 2390175227936867340
+    second: SpriteAtlas_semFundo_41
+  - first:
+      213: 2994882021058866972
+    second: SpriteAtlas_semFundo_43
+  - first:
+      213: -2097600849073765993
+    second: SpriteAtlas_semFundo_44
+  - first:
+      213: 543175637580634326
+    second: SpriteAtlas_semFundo_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1feac8517e6d90800000000000000
+      internalID: -7102614936140964646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2140e8c4bf0d6370800000000000000
+      internalID: 8317321355961844015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2dcc5c4bb83e230800000000000000
+      internalID: 3666928130138624757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aa0f6fdc76b7d20800000000000000
+      internalID: 3277327288151091755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d16fe19a2ffb510800000000000000
+      internalID: 1567238003531062649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945e1175f4d56c90800000000000000
+      internalID: -7177096280515128172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 215
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6af2c673067d60800000000000000
+      internalID: 7887495605998218503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 215
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3492051ab0e0d0800000000000000
+      internalID: -3395509519637005635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4289c0abbddcb1490800000000000000
+      internalID: -7774393988122109916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c27466d62822040800000000000000
+      internalID: 4621399574014536778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 191
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26197a201b377f4c0800000000000000
+      internalID: -4253804118937202334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 191
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f96459881407920800000000000000
+      internalID: 2985958607822429966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 191
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9176aa92e81ce0800000000000000
+      internalID: -1434147327472197769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 191
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8eb4110e656550800000000000000
+      internalID: 6153445416793706138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 191
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077d167729babab0800000000000000
+      internalID: -4991473657850267902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 191
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efefd7a0eb623dc0800000000000000
+      internalID: -3660744934465474587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 157
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392f52bf918a5010800000000000000
+      internalID: 1178396775403170101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f8bbf22d809050800000000000000
+      internalID: 5805295101072176536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6907127f05100600800000000000000
+      internalID: 432368720310372719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 143
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127fea2fb5961640800000000000000
+      internalID: 5050388680434217493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 127
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14513f40b0f9dd9a0800000000000000
+      internalID: -6206629841770179263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 125
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646a13ddc3ecf120800000000000000
+      internalID: 2449082770532230241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 125
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d38a49015425c50800000000000000
+      internalID: 6652455537095490918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d4d80166b13430800000000000000
+      internalID: 3760987691707324115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 95
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ebee76c18ea97d0800000000000000
+      internalID: -2910759000441176483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 91
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec77a023654afbeb0800000000000000
+      internalID: -4701858795837818930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 91
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366ba0ca90ca74b0800000000000000
+      internalID: -5441825428833868232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 89
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a123c152060a7070800000000000000
+      internalID: 8104797086438072736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 89
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7dd2fb382f38e70800000000000000
+      internalID: 9116396718390106092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90520351491ed5b50800000000000000
+      internalID: 6583666256412419337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 60
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31114100f1fd53980800000000000000
+      internalID: -8559690192509464301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc3fada3ace29900800000000000000
+      internalID: 689873880678874364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d69c2a6cc48320800000000000000
+      internalID: 2559395244639967289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9504178e821b4b260800000000000000
+      internalID: 7112504500781400153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7a3925d609854b0800000000000000
+      internalID: -5451448549720741984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf2455238584c40800000000000000
+      internalID: 5496740318407752942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aceb15736d2d190800000000000000
+      internalID: -7939047660017759609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048d14c4bb9b2120800000000000000
+      internalID: 2390175227936867340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fea61a455ff8920800000000000000
+      internalID: 2994882021058866972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 20
+        width: 122
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791866e2423d3e2e0800000000000000
+      internalID: -2097600849073765993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_semFundo_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 122
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d3a05d5fb98700800000000000000
+      internalID: 543175637580634326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 23d4a4997dd42e94da6a74cbc4691f94
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

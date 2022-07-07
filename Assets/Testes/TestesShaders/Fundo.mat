@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fundo
+  m_Shader: {fileID: -6465566751694194690, guid: 85072805912bfbe47a894c1db3291988, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_4768b47655af45108cadd1def15142e6:
+        m_Texture: {fileID: 2800000, guid: adc9a0d46f5918b419803d1261c6b104, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_08787fac4b4042be8fe9df67de957d38: -14.53
+    - Vector1_08f9cb026f404cebb4e915dd0220b564: 4
+    - Vector1_12b27284875e40eaa415a27de929b228: 0.4
+    - Vector1_a43f405e6f1b44e0a0c79caa8cb62f78: 0.1
+    - Vector1_dc2e37b7271243888295b684b9e2c97c: 0.1
+    m_Colors:
+    - Color_46afc0b336184d20b66c7b3fb2478cc6: {r: 42.722507, g: 22.45026, b: 0, a: 0}
+    - Vector2_6057ce5063e246bcbcce7c57e11e9ff0: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_f1e9cfa2c221494684453d865201625c: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

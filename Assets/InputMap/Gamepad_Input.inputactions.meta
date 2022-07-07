@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16b1d97337b162641afbb64d4ee305f0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/InputMap/Gamepad_Input.cs
+  wrapperClassName: 
+  wrapperCodeNamespace: 
